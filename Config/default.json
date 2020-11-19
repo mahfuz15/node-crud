@@ -1,0 +1,16 @@
+{
+    "appConfig": {
+        "baseUrl" : "http://localhost",
+        "port" : 3000 
+    },
+    "dbConfig" : {
+        "mongo_db" : {
+            "host" : "localhost",
+            "dbName" : "crud",
+            "port" : 27017
+        },
+        "mysql" : {
+
+        }
+    }
+}
